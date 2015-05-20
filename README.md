@@ -1,4 +1,4 @@
-# TIDY DATA PROJECT
+
 ## Class: Getting-and-Cleaning-Data-Project
 ## Author: Pat Jerus
 ### Date Last Revised: May 19, 2015
